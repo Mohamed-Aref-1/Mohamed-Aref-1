@@ -1,3 +1,6 @@
+### Hi there 👋 🧠
+- 👋 Hey there! I'm [@Mohamed Aref](https://www.linkedin.com/in/mohamed-aref1/)
+- 👀 I am interested in Software Engineering , data engineering , MLOps.
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
@@ -8,10 +11,28 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=software%20%20 engineer%20;Data%20%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-Passionate about Machine Learning and Artificial Intelligence, I am a self-driven individual who enjoys leveraging my skills and knowledge to create innovative solutions. I aim to utilize data-driven insights to drive business growth and enhance societal impact.
+[![Gmail](https://img.shields.io/badge/mohamed.aref@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:mohamed.aref@ejust.edu.eg)](mailto:mohamed.aref@ejust.edu.eg)
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedAref-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-aref1/)](https://www.linkedin.com/in/mohamed-aref1/)
+---
+
+
+<!--
+**python-arch/python-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 ### Connect with Me :
